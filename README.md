@@ -1,4 +1,4 @@
-# Greedy Routes (MVP)
+# Greedy Routes
 
 This repository contains the **Greedy Routes** for multi-scenario route optimization using Google’s Route Optimization API and a multi-LLM approach.
 
